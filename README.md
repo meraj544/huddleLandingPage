@@ -10,6 +10,6 @@ Perfect for Screen width 1440px, 1024px, 640px, 375px and 320px
 - Flex Box
 - Vs Code
 
-You may visit the site [here](https://roctanweer.github.io/Huddle/)
+You may visit the site [here](https://meraj544.github.io/Huddle/)
 
 ![Huddle-Landing-Page](./images/desktop.jpg)
